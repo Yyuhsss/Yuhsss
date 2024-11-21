@@ -1,0 +1,116 @@
+body {
+    color: #50322c;
+    background:rgb(255, 214, 207);
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+.topo {
+    border-bottom: solid 1px #d3ada6;
+    color: #7c5b55;
+    padding: 20px;
+    font-size: 32px;
+    font-family: "Matemasie", sans-serif;
+}
+
+.chamada {
+    background: #a8847d;
+    padding-bottom: 22px;
+    padding-top: 22px;
+    display: flex;
+    justify-content: center;
+    font-family: "Caveat", cursive;
+}
+.texto {
+margin-left: 5%;
+}
+
+img {
+    height: 100px;
+}
+
+.categoria-img {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+
+p {
+font-size: 20px;
+}
+
+.categoria {
+margin-top: 50px;
+scroll-padding-right: 20px;
+font-family: "Indie Flower", cursive;
+}
+
+.categoria-img img {
+opacity: 0.6;
+}
+
+.categoria-img img:hover {
+opacity: 1.0;
+border: 1px solid indigo;
+}
+
+.home {
+padding: 10px;
+padding-left: 1200;
+height: 0px
+}
+.home img{
+height: 80px;
+
+}
+.homeC {
+    background: #a8847d;
+    font-family: "Indie Flower", cursive;
+    padding: 20px;
+}
+
+
+
+
+.thesims {
+color: #cbb1ac;
+background:#856a65;
+
+}
+.download img {
+height: 206px;
+margin: 90px;
+
+}
+
+.hm {
+    color: #cbb1ac;
+    background:#856a65;
+}
+
+.ditto img {
+    height: 206px;
+
+}
+.cloud img {
+    height: 152px;
+    margin: 16px;
+}
+.cloud {
+    color: #cbb1ac;
+
+
+}
+.c {
+    color: #cbb1ac;
+    background:#856a65;
+    display: list-item;
+    margin: 19px;
+}
+.g11 img {
+    height: 126px;
+    background-color: #a8847d;
+    padding: 10px;
+}
+
